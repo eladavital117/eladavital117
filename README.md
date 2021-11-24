@@ -1,4 +1,4 @@
-👋 Hey there, I'm Elad! I'm a Computer Science student at the Opne University of Israel.
+👋 Hey there, I'm Elad! I'm a Computer Science student at the Open University of Israel.
 
 <!--
 **eladavital117/eladavital117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
