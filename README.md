@@ -1,4 +1,4 @@
-👋 Hey there, I'm Elad! A Computer Science graduate from the Open University of Israel.
+👋 Hey there, I'm Elad! A Software engineer and Computer Science graduate from the Open University of Israel.
 
 <!--
 **eladavital117/eladavital117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
